@@ -4,6 +4,3 @@
 - 🔭 I’m currently working on **my profile**
 
 - 🌱 I’m currently learning **computer science**
-<img src="https://raw.githubusercontent.com/Jace-Low/Jace-Low/output/snake.svg" alt="Snake animation" />
-
-###
