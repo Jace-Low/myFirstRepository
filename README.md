@@ -8,3 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<img src="https://raw.githubusercontent.com/Jace-Low/Jace-Low/output/snake.svg" alt="Snake animation" />
+
+###
